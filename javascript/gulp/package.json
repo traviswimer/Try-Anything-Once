@@ -1,0 +1,10 @@
+{
+  "name": "MessingWithGulp",
+  "description": "Trying out Gulp",
+  "author": "Travis Wimer",
+  "engine": "node >= 0.10.24",
+  "private": true,
+  "dependencies": {
+    "gulp": "~3.8.0"
+  }
+}
