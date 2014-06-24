@@ -1,0 +1,10 @@
+{
+  "name": "MessingWithPromises",
+  "description": "Trying out Promises",
+  "author": "Travis Wimer",
+  "engine": "node >= 0.10.24",
+  "private": true,
+  "dependencies": {
+    "bluebird": "~2.1.3"
+  }
+}
