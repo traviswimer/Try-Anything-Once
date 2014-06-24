@@ -9,3 +9,4 @@ Javascript
 - [ ] Promises
 - [ ] Karma - Test Runner
 - [ ] Bower - Dependency Manager
+- [ ] CoffeeScript - Javascript for people who dislike `{` and `}`
