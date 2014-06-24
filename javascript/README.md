@@ -6,5 +6,6 @@ Javascript
 - [ ] Ember - MVC Framework
 - [ ] D3 - Data Visualization
 - [ ] Three.js - 3D animation library
-- [ ] Q - Promises library
+- [ ] Promises
 - [ ] Karma - Test Runner
+- [ ] Bower - Dependency Manager
